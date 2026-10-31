@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="src" path="hlp"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="try"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.api.e4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sdk"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sdk.e4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.i3.web"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.s4.lcl.bdbje"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.system"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.s4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.s4.lcl.db4o"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.s4.lcl.jdbc"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.s4.lcl.jdbc.h2db"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.s4.lcl.jdbc.hsql"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.s4.lcl.jdbc.incubator"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.s4.lcl.jodb"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.pkg.lib.itext"/>
+	<classpathentry kind="lib" path="/ae3.pkg.lib.itext/ae3-packages/ae3.pkg.lib.itext/jars/bcprov-jdk16-143.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.l2.tgt.awt"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.l2.tgt.chart"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.l2.tgt.dhtml"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.l2.tgt.html"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.l2.tgt.json"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.l2.tgt.pdf"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.l2.tgt.swt"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.l2.tgt.text"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.l2.tgt.xls"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.l2.tgt.xml"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.base"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.base.vfs"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.cluster"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.i3.email"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ae3.sys.pkg.i3.net"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

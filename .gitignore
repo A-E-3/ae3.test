@@ -1,0 +1,26 @@
+# Eclipse
+.metadata/
+.settings/
+bin/
+*.class
+
+# Eclipse JDT language server
+__CREATED_BY_JAVA_LANGUAGE_SERVER__
+
+# Logs and JVM crash dumps
+*.log
+hs_err_pid*
+replay_pid*
+
+# Temp and editor leftovers
+*.tmp
+*~
+
+# CVS and Subversion leftovers
+CVS/
+.cvsignore
+.svn
+
+# macOS
+.DS_Store
+._*

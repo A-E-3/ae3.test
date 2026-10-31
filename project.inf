@@ -1,0 +1,39 @@
+Name: ae3.test
+Requires: \
+	ae3.api \
+	ae3.api.e4 \
+	ae3.pkg.lib.itext \
+	ae3.sdk \
+	ae3.sdk.e4 \
+	ae3.sys \
+	ae3.base \
+	ae3.sys.pkg.base.vfs \
+	ae3.sys.pkg.cluster \
+	ae3.sys.pkg.i3.email \
+	ae3.network \
+	ae3.web \
+	ae3.sys.pkg.l2.tgt.awt \
+	ae3.sys.pkg.l2.tgt.chart \
+	ae3.sys.pkg.l2.tgt.dhtml \
+	ae3.sys.l2.tgt.html \
+	ae3.sys.l2.tgt.json \
+	ae3.sys.l2.tgt.pdf \
+	ae3.sys.pkg.l2.tgt.swt \
+	ae3.sys.l2.tgt.text \
+	ae3.sys.l2.tgt.xls \
+	ae3.sys.l2.tgt.xml \
+	ae3.sys.pkg.s4 \
+	ae3.sys.pkg.s4.lcl.bdbje \
+	ae3.sys.pkg.s4.lcl.db4o \
+	ae3.sys.pkg.s4.lcl.jdbc \
+	ae3.sys.pkg.s4.lcl.jdbc.h2db \
+	ae3.sys.pkg.s4.lcl.jdbc.hsql \
+	ae3.sys.pkg.s4.lcl.jdbc.incubator \
+	ae3.sys.pkg.s4.lcl.jodb \
+	ae3.system \
+
+Provides: \
+	ae3.test \
+	--source-process:compile-java \
+	source-process:ae3-packages \
+
